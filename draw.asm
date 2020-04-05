@@ -199,4 +199,3 @@ push ax
 ret
 ENDP draw_red_square
 ret
-
